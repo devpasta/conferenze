@@ -1,16 +1,13 @@
-# Awesome Tech Conferences
+# Conferenze
 
-*A curated list of upcoming technical conferences*
+*Lista accuratamente selezionata delle prossime conferenze tecniche in Italia*
 
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
-## November 2018
+## Giugno 2023
 
-- :star: (November 8-9) [The Big Elixir](https://www.thebigelixir.com) (New Orleans, LA USA) - The Big Elixir is a two-day, single track conference created to help developers take their Elixir skills to the next level. 
-- :star: (November 9) [dotJS 2018](https://www.dotjs.io) (Paris, France) - The largest JavaScript conference in Europe
-- :star: (November 8) [dotCSS 2018](https://www.dotcss.io) (Paris, France) - The largest CSS conference in Europe
-- :star: (November 16) [DevFest Baltics 2018](https://devfest2018.gdg.lv/) (Jurmala, Latvia) - The mobile conference of the Baltics
+- :star: (16 Giugno 2023) [rubyday 2023]([https://www.thebigelixir.com](https://community.codemotion.com/grusp/meetups/rubyday-2023)) (Verona, VR) - rubyday 2023 is the 10th edition of the Italian Ruby Conference, organized by GrUSP, happening in beautiful Verona (Italy). It is also possible to participate online. The event is international and all sessions will be in English. 
 
 # Contributions
 
